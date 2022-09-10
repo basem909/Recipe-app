@@ -68,6 +68,10 @@ rails server
 rspec spec -f doc lib
 ```
 
+## Links
+live demo
+- https://recipe-app-on-rials.herokuapp.com/
+
 ## Authors
 
 ## Author 1
